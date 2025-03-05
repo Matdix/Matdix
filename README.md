@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Matdix
 - 👀 I’m interested in creating video games
-- 🌱 I’m currently learning in school
+- 🎓 I’m currently learning in school
 
 <!---
 Matdix/Matdix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
